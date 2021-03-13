@@ -1,0 +1,18 @@
+@import url("//hello.myfonts.net/count/3d5612");
+@font-face {
+    font-family: 'Mont';
+    src: url('../webFonts/MontSemiBold/font.woff2') format('woff2'), url('../webFonts/MontSemiBold/font.woff') format('woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('../webFonts/MontRegular/font.woff2') format('woff2'), url('../webFonts/MontRegular/font.woff') format('woff');
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('../webFonts/MontBold/font.woff2') format('woff2'), url('../webFonts/MontBold/font.woff') format('woff');
+    font-weight: 900;
+}
